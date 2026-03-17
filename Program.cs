@@ -1,4 +1,4 @@
-﻿namespace _2026_3_17
+﻿namespace _0317
 {
     internal class Program
     {
